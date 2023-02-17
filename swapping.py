@@ -1,0 +1,10 @@
+#string funtions implementations
+s=str(input())
+print(s.upper())
+print(s.lower())
+print(s.capitalize())
+print(s.count("m"))
+print(s.encode())
+print(s.endswith("t"))
+print(s.find("t"))
+print(s.index("a"))
